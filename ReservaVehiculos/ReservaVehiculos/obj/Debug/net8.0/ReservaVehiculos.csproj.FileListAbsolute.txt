@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\bin\Debug\net8.0\ReservaVehiculos.exe
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\bin\Debug\net8.0\ReservaVehiculos.deps.json
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\bin\Debug\net8.0\ReservaVehiculos.runtimeconfig.json
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\bin\Debug\net8.0\ReservaVehiculos.dll
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\bin\Debug\net8.0\ReservaVehiculos.pdb
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.sourcelink.json
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.dll
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\refint\ReservaVehiculos.dll
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.pdb
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ReservaVehiculos.genruntimeconfig.cache
+C:\Users\DELL\Desktop\PrimerProyectoDACTIC\ReservaVehiculos\ReservaVehiculos\obj\Debug\net8.0\ref\ReservaVehiculos.dll
