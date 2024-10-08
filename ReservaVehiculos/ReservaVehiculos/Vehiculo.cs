@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ReservaVehiculos
+namespace ReservaDeVehiculos
 {
-    internal class Vehiculo
+    public class Vehiculos
     {
         public string Modelo { get; set; }
-        public decimal PrecioXDia { get; set; }
+
+        public decimal PrecioPorDia { get; set; }
     }
     internal class Descuento
     {
