@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\PrimerProyectoDACTIC\\ReservaVehiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7640518-CAC4-4942-8204-49BAD4056F7D}|ReservaVehiculos\\ReservaVehiculos.csproj|c:\\users\\dell\\desktop\\primerproyectodactic\\reservavehiculos\\reservavehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7640518-CAC4-4942-8204-49BAD4056F7D}|ReservaVehiculos\\ReservaVehiculos.csproj|solutionrelative:reservavehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\PrimerProyectoDACTIC\\ReservaVehiculos\\ReservaVehiculos\\Program.cs",
+              "RelativeDocumentMoniker": "ReservaVehiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\PrimerProyectoDACTIC\\ReservaVehiculos\\ReservaVehiculos\\Program.cs",
+              "RelativeToolTip": "ReservaVehiculos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:36:18.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
